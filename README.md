@@ -1,2 +1,1 @@
 # fooocus
-Multipurpose bunissess website
